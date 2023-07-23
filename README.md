@@ -48,3 +48,7 @@ Web developer
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=ArhipKokocan&stroke=COLOR)
+
+
+### ROADMAPS
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6482e00887dba4077123bc84?variant=dark)](https://roadmap.sh)
