@@ -1,15 +1,15 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Архип
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arhip
 =============================================================================================================================
 
 Web developer
 -------------
 
-Я начинающий веб разработчки на Python. На данный момент углубляю свои знания в backend разаботке, изучаю Django, а также FastAPI.
+I am a python web development beginner. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
 
-*   🌍  Я живу в Украине
-*   ✉️  Вы можете связаться со мной по [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
-*   🧠  Я изучаю Django
-### Технологии:
+*   🌍  I live in Ukraine
+*   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
+*   🧠  I'm learning Django
+### Technologies:
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -29,11 +29,11 @@ Web developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Социальные сети:
+### Social Networks:
 
 <p align="left"> <a href="https://discord.com/users/ArhipKokocan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ArhipDolya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arhip-dolya-4523bb217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>Моя GitHub статистика</b>
+<b>My GitHub stats</b>
 
 <a href="http://www.github.com/ArhipDolya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArhipDolya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
