@@ -6,7 +6,7 @@ Web developer
 
 I am a python web development beginner. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
 
-*   🌍  I'm 18 y.o and I live in Ukraine
+*   🌍  I live in Ukraine
 *   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
 *   🧠  I'm learning Django
 ### Technologies:
