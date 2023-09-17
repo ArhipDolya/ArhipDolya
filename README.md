@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I am a python web development beginner. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
+I am a python web developer. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
 
 *   🌍  I live in Ukraine
 *   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
