@@ -22,11 +22,10 @@ I am a python web developer. Currently I'm deepening my backend knowledge learni
 
 ### Frameworks
 <p align="left">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="DRF" width="50" height="50">
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/langchain-colored.svg" width="36" height="36" alt="LangChain" /></a>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain.svg" alt="LangChain" width="50" height="50">
 </p>
 
 ### Databases
