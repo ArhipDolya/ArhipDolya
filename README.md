@@ -52,17 +52,17 @@ I am a python web developer. Currently I'm deepening my backend knowledge learni
 ### Other Tools
 
 <p align="left">
-<a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/celery-colored.svg" width="36" height="36" alt="Celery" /></a>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rabbitmq-colored.svg" width="36" height="36" alt="RabbitMQ" /></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
-<a href="https://caddyserver.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/caddy-colored.svg" width="36" height="36" alt="Caddy" /></a>
+<a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" alt="Celery" width="50" height="50" alt="Celery" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg" alt="RabbitMQ" width="50" height="50" alt="RabbitMQ" /></a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" alt="Nginx" /></a>
+<a href="https://caddyserver.com/" target="_blank" rel="noreferrer"><img src="https://via.placeholder.com/50?text=Caddy" alt="Caddy" width="50" height="50" alt="Caddy" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" alt="GitHub" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hetzner-colored.svg" width="36" height="36" alt="Hetzner" /></a>
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cloudflare-colored.svg" width="36" height="36" alt="Cloudflare" /></a>
+<a href="https://www.hetzner.com/" target="_blank" rel="noreferrer"><img src="https://via.placeholder.com/50?text=Hetzner" alt="Hetzner" width="50" height="50" alt="Hetzner" /></a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg" alt="Cloudflare" width="50" height="50" alt="Cloudflare" /></a>
 </p>
 
 ### Social Networks:
