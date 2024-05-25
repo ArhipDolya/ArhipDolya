@@ -36,8 +36,8 @@ I am a python web developer. Currently I'm deepening my backend knowledge learni
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clickhouse.svg" alt="ClickHouse" width="50" height="50" alt="Clickhouse" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" alt="Redis" /></a>
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bigquery-colored.svg" width="36" height="36" alt="BigQuery" /></a>
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pinecone-colored.svg" width="36" height="36" alt="Pinecone" /></a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="50" height="50" alt="BigQuery" /></a>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"><img src="https://via.placeholder.com/50?text=Pinecone" alt="Pinecone" width="50" height="50" alt="Pinecone" /></a>
 </p>
 
 ### Frontend
