@@ -35,11 +35,14 @@
     <h3>Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,drf,celery,uvicorn" /><br>
     <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" /><br>
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/GoogleBigQuery.svg" width="36" height="36" alt="Google BigQuery" />
+    </a><br>
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=docker,git,github,tailwind,linux,nginx,caddy" /><br>
     <h3>Services</h3>
-    <img src="https://skillicons.dev/icons?i=redis,rabbitmq,pinecone,hetzner,cloudflare" /><br>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,pinecone,hetzner,cloudflare" /><br>
     <h3>Collaboration & Project Management</h3>
     <img src="https://skillicons.dev/icons?i=jira,notion,slack" /><br>
 </div>
