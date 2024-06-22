@@ -7,11 +7,11 @@
 
 <div align="center">
     
-    *   🌍  I live in Ukraine
+    <p>🌍 I live in Ukraine</p>
     
-    *   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
+    <p>✉️ You can contact me at <a href="mailto:arhipdolya6995@gmail.com">arhipdolya6995@gmail.com</a></p>
     
-    *   🧠  I'm learning cool technologies
+    <p>🧠 I'm learning cool technologies</p>
     
 </div>
 
