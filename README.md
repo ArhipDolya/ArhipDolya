@@ -5,14 +5,16 @@
 -------------
 <h3 align="center">I am a backend developer, currently enhancing my skills by learning FastAPI.</h3>
 
+<br/>
+
 <div align="center">
-    
-    <p>🌍 I live in Ukraine</p>
-    
-    <p>✉️ You can contact me at <a href="mailto:arhipdolya6995@gmail.com">arhipdolya6995@gmail.com</a></p>
-    
-    <p>🧠 I'm learning cool technologies</p>
-    
+ 
+🌍 I live in Ukraine**
+ 
+✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)**
+
+🧠  I'm learning cool technologies**
+
 </div>
 
 ### Technologies:
