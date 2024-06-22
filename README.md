@@ -25,7 +25,16 @@
 </div>
 
 <hr/>
- 
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask, postgresql,html,css,bootstrap" />
+</div>
+
+<br/>
+<hr/>
 
 ### Technologies:
 
