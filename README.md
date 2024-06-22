@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/arhip-dolya-4523bb217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://discord.com/users/ArhipKokocan" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
 </div>
 
 <hr/>
