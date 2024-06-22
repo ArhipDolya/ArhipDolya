@@ -10,8 +10,6 @@
 <div align="center">
  
 🌍 I live in Ukraine
- 
-✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
 
 🧠  I'm learning cool technologies
 
