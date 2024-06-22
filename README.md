@@ -28,9 +28,20 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask, postgresql,html,css,bootstrap" />
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br>
+    <h3>Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,drf,celery,uvicorn" /><br>
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" /><br>
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,tailwind,linux,nginx,caddy" /><br>
+    <h3>Services</h3>
+    <img src="https://skillicons.dev/icons?i=redis,rabbitmq,pinecone,hetzner,cloudflare" /><br>
+    <h3>Collaboration & Project Management</h3>
+    <img src="https://skillicons.dev/icons?i=jira,notion,slack" /><br>
 </div>
 
 <br/>
