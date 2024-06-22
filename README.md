@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arhip!;" />
 </h1>
 
-
-Web developer
 -------------
+<h3 align="center">I am a backend developer, currently enhancing my skills by learning FastAPI.</h3>
 
-I am a backend developer. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
+<div align="center">
+    *   🌍  I live in Ukraine
+    *   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
+    *   🧠  I'm learning cool technologies
+</div>
 
-*   🌍  I live in Ukraine
-*   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
-*   🧠  I'm learning Django
 ### Technologies:
 
 <p align="left">
