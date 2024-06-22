@@ -36,7 +36,7 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br>
     <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=django,drf,fastapi,flask,react,uvicorn,gunicorn" /><br>
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,uvicorn,gunicorn" /><br>
     <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" /><br>
     <h3>Tools</h3>
