@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arhip
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arhip!;" />
+</h1>
 =============================================================================================================================
 
 Web developer
 -------------
 
-I am a python web developer. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
+I am a backend developer. Currently I'm deepening my backend knowledge learning Django as well as FastAPI.
 
 *   🌍  I live in Ukraine
 *   ✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
