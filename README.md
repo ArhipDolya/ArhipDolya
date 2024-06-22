@@ -9,13 +9,25 @@
 
 <div align="center">
  
-🌍 I live in Ukraine**
+🌍 I live in Ukraine
  
-✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)**
+✉️  You can contact me at [arhipdolya6995@gmail.com](mailto:arhipdolya6995@gmail.com)
 
-🧠  I'm learning cool technologies**
+🧠  I'm learning cool technologies
 
 </div>
+
+<div align="center"> 
+  <a href="mailto:arhipdolya6995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/arhip-dolya-4523bb217/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ 
 
 ### Technologies:
 
