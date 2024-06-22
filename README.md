@@ -33,17 +33,11 @@
 <br/>
 
 <div align="center">
-    <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript" /><br>
-    <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,uvicorn,gunicorn" /><br>
-    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,uvicorn" /><br>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis" /><br>
-    <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=docker,git,github,tailwind,linux,nginx,caddy" /><br>
-    <h3>Services</h3>
     <img src="https://skillicons.dev/icons?i=rabbitmq,cloudflare" /><br>
-    <h3>Collaboration & Project Management</h3>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="36" height="36" alt="Notion" />
     </a>
