@@ -39,11 +39,8 @@
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=docker,git,github,tailwind,linux,nginx,caddy" /><br>
     <h3>Services</h3>
-    <img src="https://skillicons.dev/icons?i=rabbitmq,celery,cloudflare" /><br>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,cloudflare" /><br>
     <h3>Collaboration & Project Management</h3>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Jira_%28Software%29_logo.svg" width="36" height="36" alt="Jira" />
-    </a>
     <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="36" height="36" alt="Notion" />
     </a>
